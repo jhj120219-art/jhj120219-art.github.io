@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My Blog</title>
+    <link>https://jhj120219-art.github.io/</link>
+    <description>Recent content on My Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 May 2026 23:32:36 +0900</lastBuildDate>
+    <atom:link href="https://jhj120219-art.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://jhj120219-art.github.io/posts/first/</link>
+      <pubDate>Wed, 27 May 2026 23:32:36 +0900</pubDate>
+      <guid>https://jhj120219-art.github.io/posts/first/</guid>
+      <description>&lt;p&gt;안녕하세요! 제 블로그에 오신 것을 환영합니다 :)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
